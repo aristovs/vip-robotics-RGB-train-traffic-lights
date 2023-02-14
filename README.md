@@ -21,14 +21,14 @@
 Project created as a part of the VIP team Robotics.
 
 <p float="left">
-  <img src="img/floor1.png" width="100" />
-  <img src="img/floor2.png" width="100" /> 
-  <img src="img/floor3.png" width="100" />
+  <img src="img/floor1.png" width="200" />
+  <img src="img/floor2.png" width="200" /> 
+  <img src="img/floor3.png" width="400" />
 </p>
 
 <p float="left">
-  <img src="img/tower1.png" width="100" />
-  <img src="img/tower2.png" width="100" /> 
-  <img src="img/tower3.png" width="100" />
+  <img src="img/tower1.png" width="200" />
+  <img src="img/tower2.png" width="300" /> 
+  <img src="img/tower3.png" width="400" />
 </p>
 
